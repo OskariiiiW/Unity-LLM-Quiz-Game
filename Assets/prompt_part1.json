@@ -1,0 +1,15 @@
+{
+    "data": [
+        { "difficulty" : "0" },
+        { "theme": "(the theme of the question and answers)" },
+        { "question": "(a question that is related to the theme)" },
+        {
+            "answers": {
+                "answer1": "(the correct answer)",
+                "answer2": "(a wrong answer)",
+                "answer3": "(a wrong answer)",
+                "answer4": "(a wrong answer)"
+            }
+        }
+    ]
+}

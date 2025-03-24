@@ -1,0 +1,15 @@
+{
+    "data": [
+        { "difficulty": "0" },
+        { "theme": "Food" },
+        { "question": "What color are bananas?" },
+        {
+            "answers": {
+                "answer1": "Yellow",
+                "answer2": "Purple",
+                "answer3": "White",
+                "answer4": "Red"
+            }
+        }
+    ]
+}
